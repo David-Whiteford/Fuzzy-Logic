@@ -1,0 +1,37 @@
+﻿  Game.cpp
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(33,24): warning C4244: '-=': conversion from 'double' to 'sf::Int32', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(45,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(50,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(50,53): warning C4244:         with
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(50,53): warning C4244:         [
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(50,53): warning C4244:             T=float
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(50,53): warning C4244:         ]
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(50,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(50,41): warning C4244:         with
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(50,41): warning C4244:         [
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(50,41): warning C4244:             T=float
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(50,41): warning C4244:         ]
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(54,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(55,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(56,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(57,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(59,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(60,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(61,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(63,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(64,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(65,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(68,68): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(75,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(75,53): warning C4244:         with
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(75,53): warning C4244:         [
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(75,53): warning C4244:             T=float
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(75,53): warning C4244:         ]
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(75,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(75,41): warning C4244:         with
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(75,41): warning C4244:         [
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(75,41): warning C4244:             T=float
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(75,41): warning C4244:         ]
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Project1\Game.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> D:\Users\dave2\Desktop\New folder (2)\Game-Code-Setup\Debug\Project1.exe
